@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\FormationController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,15 +14,16 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-/* Route::get('/', function () {
+Route::get('/admin', function () {
     return view('welcome');
-}); */
+});
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
 
 Route::get('/', function () {
-    return view('layouts.master');
+    return view('layouts.index');
 });
 
+Route::resource('formations', FormationController::class)->middleware('auth');
