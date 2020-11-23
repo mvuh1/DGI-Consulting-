@@ -165,7 +165,7 @@
 
 	<!-- jQuery -->
 	<script src="{{ asset('js/jquery.min.js') }}"></script>
-	@include('flashy::message')
+	{{-- @include('flashy::message') --}}
 	<!-- jQuery Easing -->
 	<script src="{{ asset('js/jquery.easing.1.3.js') }}"></script>
 	<!-- Bootstrap -->

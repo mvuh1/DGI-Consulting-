@@ -75,7 +75,7 @@ class FormationController extends Controller
        $formation->description = $request->input('description');
        $formation->save();
 
-       Flashy::message('Publié avec succès');
+       //Flashy::message('Publié avec succès');
 
        return redirect()->route('formations.index');
 
@@ -143,7 +143,7 @@ class FormationController extends Controller
     public function destroy(Formation $formation)
     {
         $formation->delete();
-        Flashy::error('supprimé avec succès');
+        //Flashy::error('supprimé avec succès');
 
         return redirect()->route('formations.index');
     }
