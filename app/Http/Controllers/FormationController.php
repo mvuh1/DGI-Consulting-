@@ -5,7 +5,6 @@ namespace App\Http\Controllers;
 use App\Models\Formation;
 use Facade\FlareClient\View;
 use Illuminate\Http\Request;
-use Flashy;
 
 class FormationController extends Controller
 {
