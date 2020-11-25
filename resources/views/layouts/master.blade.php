@@ -1,210 +1,129 @@
-
 <!DOCTYPE html>
-<html class="no-js">
-	<head>
+<html>
+
+<!-- Mirrored from www.lgpconseil.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 20 Nov 2020 22:34:07 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
+<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>DGI &mdash; Consulting</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FREEHTML5.CO" />
+	<title>DGI Consulting</title>
+	<meta name="description" content="LGP Conseil, spécialiste en management des dynamiques humaines depuis 2002">
+	<meta property="og:title"
+		content="LGP Conseil, organisme de formation et cabinet conseil en management et évolution professionnelle." />
+	<meta property="og:description"
+		content="LGP Conseil, spécialiste en management des dynamiques humaines depuis 2002" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="index.html" />
+	<meta property="og:image" content="images/seo/open-graph.jpg" />
+	<meta property="og:site_name" content="LGP Conseil">
+	<meta property="og:locale" content="fr_FR" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-    <!-- UIkit CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.5.9/dist/css/uikit.min.css" />
+	<link rel="shortcut icon" href="{{ asset('icones/Logo.ico') }}">
+	<link rel="canonical" href="index.html" />
+	<link rel="image_src" href="images/seo/thumbnail.jpg" />
+	<link
+		href="https://fonts.googleapis.com/css2?family=Didact+Gothic&amp;family=Shadows+Into+Light+Two&amp;display=swap"
+		rel="stylesheet">
+	<link rel="publisher" href="https://plus.google.com/115775484806590768912">
 
-    <!-- UIkit JS -->
-    <script src="https://cdn.jsdelivr.net/npm/uikit@3.5.9/dist/js/uikit.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/uikit@3.5.9/dist/js/uikit-icons.min.js"></script>
+	<link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="images/favicons/manifest.json">
+	<link rel="mask-icon" href="images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="theme-color" content="#ffffff">
 
-  	<!-- Facebook and Twitter integration -->
-	<meta property="og:title" content=""/>
-	<meta property="og:image" content=""/>
-	<meta property="og:url" content=""/>
-	<meta property="og:site_name" content=""/>
-	<meta property="og:description" content=""/>
-	<meta name="twitter:title" content="" />
-	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="" />
-	<meta name="twitter:card" content="" />
+	<link rel="stylesheet" href="{{ asset('includes/externe/bootstrap/css/bootstrap.min.css') }}">
+	<link rel="stylesheet" href="{{ asset('includes/externe/font-awesome/css/font-awesome.min.css') }}">
+	<link rel="stylesheet" href="{{ asset('includes/externe/animate/animate.min.css') }}">
+	<link rel="stylesheet" href="{{ asset('includes/externe/simple-line-icons/css/simple-line-icons.min.css') }}">
+	<link rel="stylesheet" href="{{ asset('includes/externe/owl.carousel/assets/owl.carousel.min.css') }}">
+	<link rel="stylesheet" href="{{ asset('includes/externe/owl.carousel/assets/owl.theme.default.min.css') }}">
+	<link rel="stylesheet" href="{{ asset('includes/externe/magnific-popup/magnific-popup.min.css') }}">
 
-	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="stylesheet" href="{{ asset('includes/css/theme3fdf.css?v=20201116-02') }}">
+	<link rel="stylesheet" href="{{ asset('includes/css/theme-elements.css') }}">
+	<link rel="stylesheet" href="{{ asset('includes/css/theme-blog.css') }}">
 
-	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
-	
-	<!-- Animate.css -->
-	<link rel="stylesheet" href="{{ asset('css/animate.css') }}">
-	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="{{ asset('css/icomoon.css') }}">
-	<!-- Simple Line Icons -->
-	<link rel="stylesheet" href="{{ asset('css/simple-line-icons.css') }}">
-	<!-- Magnific Popup -->
-	<link rel="stylesheet" href="{{ asset('css/magnific-popup.css') }}">
-	<!-- Bootstrap  -->
-	<link rel="stylesheet" href="{{ asset('css/bootstrap.css') }}">
+	<link rel="stylesheet" href="{{ asset('includes/css/skin3fdf.css?v=20201116-02') }}">
+	<link rel="stylesheet" href="{{ asset('includes/css/custom3fdf.css?v=20201116-02') }}">
 
-	<link rel="stylesheet" href="{{ asset('css/style.css') }}">
+	<script src="{{ asset('includes/externe/modernizr/modernizr.min.js') }}"></script>
 
-	<!-- Styleswitcher ( This style is for demo purposes only, you may delete this anytime. ) -->
-	<link rel="stylesheet" id="theme-switch" href="{{ asset('css/style.css') }}">
-	<!-- End demo purposes only -->
+	<!-- UIkit CSS -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.5.9/dist/css/uikit.min.css" />
+
+	<!-- UIkit JS -->
+	<script src="https://cdn.jsdelivr.net/npm/uikit@3.5.9/dist/js/uikit.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/uikit@3.5.9/dist/js/uikit-icons.min.js"></script>
+
+</head>
+
+<body>
+	<div class="body">
+
+		{{-- le header --}}
+		@include('partials.header')
+
+		<div role="main" class="main">
+			@yield('content')
+		</div>
+
+		{{-- le footer --}}
+		@include('partials.footer')
+
+	</div>
 
 
-	<style>
-	/* For demo purpose only */
-	
-	/* For Demo Purposes Only ( You can delete this anytime :-) */
-	#colour-variations {
-		padding: 10px;
-		-webkit-transition: 0.5s;
-	  	-o-transition: 0.5s;
-	  	transition: 0.5s;
-		width: 140px;
-		position: fixed;
-		left: 0;
-		top: 100px;
-		z-index: 999999;
-		background: #fff;
-		/*border-radius: 4px;*/
-		border-top-right-radius: 4px;
-		border-bottom-right-radius: 4px;
-		-webkit-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
-		-moz-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
-		-ms-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
-		box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
-	}
-	#colour-variations.sleep {
-		margin-left: -140px;
-	}
-	#colour-variations h3 {
-		text-align: center;;
-		font-size: 11px;
-		letter-spacing: 2px;
-		text-transform: uppercase;
-		color: #777;
-		margin: 0 0 10px 0;
-		padding: 0;;
-	}
-	#colour-variations ul,
-	#colour-variations ul li {
-		padding: 0;
-		margin: 0;
-	}
-	#colour-variations li {
-		list-style: none;
-		display: block;
-		margin-bottom: 5px!important;
-		float: left;
-		width: 100%;
-	}
-	#colour-variations li a {
-		width: 100%;
-		position: relative;
-		display: block;
-		overflow: hidden;
-		-webkit-border-radius: 4px;
-		-moz-border-radius: 4px;
-		-ms-border-radius: 4px;
-		border-radius: 4px;
-		-webkit-transition: 0.4s;
-		-o-transition: 0.4s;
-		transition: 0.4s;
-	}
-	#colour-variations li a:hover {
-	  	opacity: .9;
-	}
-	#colour-variations li a > span {
-		width: 33.33%;
-		height: 20px;
-		float: left;
-		display: -moz-inline-stack;
-		display: inline-block;
-		zoom: 1;
-		display: inline;
-	}
-	.option-toggle {
-		position: absolute;
-		right: 0;
-		top: 0;
-		margin-top: 5px;
-		margin-right: -30px;
-		width: 30px;
-		height: 30px;
-		background: #f64662;
-		text-align: center;
-		border-top-right-radius: 4px;
-		border-bottom-right-radius: 4px;
-		color: #fff;
-		cursor: pointer;
-		-webkit-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
-		-moz-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
-		-ms-box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
-		box-shadow: 0 0 9px 0 rgba(0,0,0,.1);
-	}
-	.option-toggle i {
-		top: 2px;
-		position: relative;
-	}
-	.option-toggle:hover, .option-toggle:focus, .option-toggle:active {
-		color:  #52d3aa;
-		text-decoration: none;
-		outline: none;
-	}
+	<!-- Vendor -->
+	<script src="{{ asset('includes/externe/jquery/jquery.min.js') }}"></script>
+	<script src="{{ asset('includes/externe/jquery.appear/jquery.appear.min.js') }}"></script>
+	<script src="{{ asset('includes/externe/jquery.easing/jquery.easing.min.js') }}"></script>
+	<script src="{{ asset('includes/externe/jquery-cookie/jquery-cookie.min.js') }}"></script>
+	<script src="{{ asset('includes/externe/bootstrap/js/bootstrap.min.js') }}"></script>
+	<script src="{{ asset('includes/externe/common/common.min.js') }}"></script>
+	<script src="{{ asset('includes/externe/jquery.validation/jquery.validation.min.js') }}"></script>
+	<script src="{{ asset('includes/externe/jquery.easy-pie-chart/jquery.easy-pie-chart.min.js') }}"></script>
+	<script src="{{ asset('includes/externe/jquery.gmap/jquery.gmap.min.js') }}"></script>
+	<script src="{{ asset('includes/externe/jquery.lazyload/jquery.lazyload.min.js') }}"></script>
+	<script src="{{ asset('includes/externe/isotope/jquery.isotope.min.js') }}"></script>
+	<script src="{{ asset('includes/externe/owl.carousel/owl.carousel.min.js') }}"></script>
+	<script src="{{ asset('includes/externe/magnific-popup/jquery.magnific-popup.min.js') }}"></script>
+	<script src="{{ asset('includes/externe/vide/vide.min.js') }}"></script>
 
-	</style>
-	<!-- End demo purposes only -->
+	<script src="{{ asset('includes/js/theme.js') }}"></script>
 
-	<!-- Modernizr JS -->
-	<script src="{{ asset('js/modernizr-2.6.2.min.js') }}"></script>
+	<script src="404.html"></script>
+	<script src="{{ asset('includes/js/theme.init3fdf.js?v=20201116-02') }}"></script>
 
-	</head>
-	<body>
-	
-	@yield('content')
+	<!-- jQuery CDN - Slim version (=without AJAX) -->
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+		integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+		crossorigin="anonymous"></script>
+	<!-- Popper.JS -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"
+	  integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ"
+	  crossorigin="anonymous"></script>
+	<!-- Bootstrap JS -->
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"
+	  integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm"
+	  crossorigin="anonymous"></script>
 
-	<!-- jQuery -->
-	<script src="{{ asset('js/jquery.min.js') }}"></script>
-	{{-- @include('flashy::message') --}}
-	<!-- jQuery Easing -->
-	<script src="{{ asset('js/jquery.easing.1.3.js') }}"></script>
-	<!-- Bootstrap -->
-	<script src="{{ asset('js/bootstrap.min.js') }}"></script>
-	<!-- Waypoints -->
-	<script src="{{ asset('js/jquery.waypoints.min.js') }}"></script>
-	<!-- Stellar Parallax -->
-	<script src="{{ asset('js/jquery.stellar.min.js') }}"></script>
-	<!-- Counter -->
-	<script src="{{ asset('js/jquery.countTo.js') }}"></script>
-	<!-- Magnific Popup -->
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="{{ asset('js/magnific-popup-options.js') }}"></script>
-	<!-- Google Map -->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
-	<script src="{{ asset('js/google_map.js') }}"></script>
+	<script>      
+		var pageTrackParams = {
+			buzzeeServer: 'http://ids33023.delosmail.com/ServePage',
+			fullUrl: true,
+			PPRJ_ID: 73689319
+		};
+		var w2l = _paq = (typeof _paq !== 'object') ? [] : _paq;
 
-	<!-- For demo purposes only styleswitcher ( You may delete this anytime ) -->
-	<script src="js/jquery.style.switcher.js"></script>
-	<script>
-		$(function(){
-			$('#colour-variations ul').styleSwitcher({
-				defaultThemeId: 'theme-switch',
-				hasPreview: false,
-				cookie: {
-		          	expires: 30,
-		          	isManagingLoad: true
-		      	}
-			});	
-			$('.option-toggle').click(function() {
-				$('#colour-variations').toggleClass('sleep');
-			});
-		});
+		w2l.push(['w2l_trackPage', pageTrackParams]);
+		var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0]; g.type = 'text/javascript'; g.defer = true; g.async = true; g.src = '../trk.buzzee.fr/w2lbuzzeetracking.js';
+		s.parentNode.insertBefore(g, s); 
 	</script>
-	<!-- End demo purposes only -->
+</body>
 
-	<!-- Main JS (Do not remove) -->
-	<script src="js/main.js"></script>
-
-	</body>
 </html>
-

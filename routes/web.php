@@ -15,15 +15,20 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/admin', function () {
-    return view('welcome');
+    return view('welcome')->name('admin');
 });
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
 
-Route::get('/', function () {
-    return view('layouts.index');
+/* Route::get('/', function () {
+    return view('layouts.index')->name('home');
 });
+ */
+Route::view('/','layouts.index')->name('home');
+Route::view('/contact','pages.contact')->name('contact');
+Route::view('/equipe','pages.equipe')->name('equipe');
+Route::view('/dgi-info','pages.dgi_info')->name('dgi-info');
 
 Route::resource('formations', FormationController::class)->middleware('auth');
