@@ -77,7 +77,6 @@
 
 	</div>
 
-
 	<!-- Vendor -->
 	<script src="{{ asset('includes/externe/jquery/jquery.min.js') }}"></script>
 	<script src="{{ asset('includes/externe/jquery.appear/jquery.appear.min.js') }}"></script>

@@ -31,10 +31,10 @@
                 </div>
                 <div class="col-md-6" style="height:100%">
                     <div uk-form-custom="target: true" style="width:100%">
-                        <label> Image :</label>
-                        <input type="file">
-                        <input name="image"
-                            class="uk-input uk-width-input" type="text" placeholder="Select your Image" disabled>
+                        <label for="image"> Image :</label>
+                        <input name="image" type="file">
+                        <input 
+                            class="uk-input uk-width-input" type="texte" placeholder="Select your Image" disabled>
                     </div>
                     <div class="uk-margin" >
                         <label> Description :</label>

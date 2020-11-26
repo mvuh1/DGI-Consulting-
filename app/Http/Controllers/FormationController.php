@@ -49,8 +49,8 @@ class FormationController extends Controller
         $formation = new Formation;
        
 
-       /* if($request->file()) {
-            dd('entrer dans le if');
+       if($request->file()) {
+            /* dd('entrer dans le if'); */
            $fileName = time().'_'.$request->file('image')->getClientOriginalName();
            $filePath = $request->file('image')->storeAs('uploads', $fileName, 'public');
 
@@ -67,12 +67,7 @@ class FormationController extends Controller
        }
        else{
         dd('entrer dans le else');   
-       } */
-       $formation->intitule = $request->input('intitule');
-       $formation->date_debut = $request->input('date_debut');
-       $formation->date_fin = $request->input('date_fin');
-       $formation->description = $request->input('description');
-       $formation->save();
+       }
 
        //Flashy::message('Publié avec succès');
 
@@ -99,7 +94,6 @@ class FormationController extends Controller
      */
     public function edit(Formation $formation)
     {
-        //dd($formation);
         return View('formations.edit', compact('formation'));
     }
 
@@ -113,7 +107,6 @@ class FormationController extends Controller
     public function update(Request $request, Formation $formation)
     {
         if($request->file()) {
-            dd('entrer dans le if');
            $fileName = time().'_'.$request->file('image')->getClientOriginalName();
            $filePath = $request->file('image')->storeAs('uploads', $fileName, 'public');
 
@@ -128,9 +121,10 @@ class FormationController extends Controller
            $formation->save();
            return redirect()->route('formations.index');
        }
-       else{
-        dd('entrer dans le else');   
+       else{ 
+           return redirect()->route('formations.index');
        }
+        return redirect()->route('formations.index');
     }
 
     /**
