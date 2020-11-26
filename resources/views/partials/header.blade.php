@@ -1,4 +1,4 @@
-<header id="header" class="has-nav-bar"
+<header id="header" class="has-nav-bar" style="margin-top: -5px"
     data-plugin-options="{'stickyEnabled': false, 'stickyEnableOnBoxed': false, 'stickyEnableOnMobile': false, 'stickyStartAt': 108, 'stickySetTop': '-108px', 'stickyChangeLogo': false} ">
     <div class="header-body">
         <div class="header-container container">
@@ -17,7 +17,7 @@
                                 </div>
                                 <div class="feature-box-info">
                                     <h4 class="mb-none">+ 33 (0)7 67 22 34 51</h4>
-                                    <p><small>Agence Yaounde</small></p>
+                                    <p style="margin-top: 2px"><small>Agence Yaounde</small></p>
                                 </div>
                             </div>
                         </li>
