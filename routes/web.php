@@ -22,12 +22,11 @@ Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
 
-/* Route::get('/', function () {
-    return view('layouts.index')->name('home');
-});
- */
+Route::view('/msg', 'emails.messages.created')->name('msg');
+
 Route::view('/','layouts.index')->name('home');
 Route::view('/contact','pages.contact')->name('contact');
+Route::view('/methode-pedagogique','pages.methode-pedagogique')->name('methode-pedagogique');
 Route::view('/equipe','pages.equipe')->name('equipe');
 Route::view('/dgi-info','pages.dgi_info')->name('dgi-info');
 

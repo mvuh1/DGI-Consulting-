@@ -4,7 +4,8 @@
 
     <div role="main" class="main">
         <section class="parallax section section-parallax parallax-disabled section-parallax-cms"
-            data-plugin-parallax data-image-src="/upload/textes_rubriques/img/xl/34.jpg"></section>
+            data-plugin-parallax data-image-src="/images/home_image.png"
+            style="height: 350px"></section>
 
         <section class="section section-no-background section-no-border mt-none pt-none mb-none pb-none">
             <div class="container">
@@ -23,58 +24,118 @@
         <div class="container mt-none mb-md">
             <div class="row">
                 <div class="col-md-12">
-                    <h1>Aprpos de DGI-Consulting</h1>
+                    <h1 style="color: #0DA4B5">PRESENTATION de la DGI-Consulting Cameroun</h1>
                     <hr class="gradient-to-right">
-                </div>
-            </div>
-            <div class="">
-                <div class="">
-                    <p>
-                        DGI Consulting est un cabinet conseil international en stratégie, organisation et management.
-                        Nous sommes spécialisés dans l’accompagnement opérationnel des projets d’investissements ou de mise en œuvre de
-                        projets internationaux ; DGI Consulting permet aux dirigeants et aux responsables de projets, responsables politiques ou
-                        administrateurs d’élaborer leur stratégie opérationnelle, de la communiquer à leurs collaborateurs et à leurs partenaires.
-                        DGI Consulting accompagne ses clients dans l’atteinte de leurs objectifs et dans la mise en œuvre, opérationnelle et
-                        efficace, des stratégies, projets, plans d’action validés, selon les besoins, les priorités existantes et le contexte
-                        d’intervention. Tous les consultants et intervenants spécialisés DGI Consulting
-                        sont expérimentés, autonomes et pilotés par notre Direction Générale.
-                    </p>
-                    <p>
-                        DGI Consulting, c’est
-                    </p>
-
-                    <ul style="list-style-type: circle;">
-                        <li>
-                            <strong>La qualité</strong> de vos processus de conception, de 
-                            déclinaison et déploiement opérationnel stratégique ;
-                        </li>
-                        <li>
-                            <strong>La synergie</strong> des équipes et de projets dans le 
-                            cadre de résultats définis, attendus et évalués ;
-                        </li>
-                        <li>
-                            <strong>L’assurance</strong> d’une gestion optimale des fonds gérés, 
-                            des investissements et des retours bénéficiaires ;
-                        </li>
-                        <li>
-                            <strong>Le pilotage et le management</strong> de vos projets complexes ; 
-                                L’amélioration votre performance organisationnelle, opérationnelle et financière ;
-                        </li>
-                        <li>
-                            <strong>Des gains de temps</strong> considérables et <strong> une sérénité de 
-                            management </strong> renforcée pour tous nos clients ;
-                        </li>
-                        <li>
-                            <strong>La capitalisation</strong> des expériences et la mise en réseau des 
-                            compétences adaptées ;
-                        </li>
-                        <li>
-                            <strong>Le professionnalisme et la pertinence </strong> de consultants polyvalents 
-                            et expérimentés.
-                        </li>
-                    </ul>
                 </div>
             </div>
         </div>
     </div>
+
+    <div class="uk-section uk-section-default container mt-none mb-md">
+        <div class="uk-container">
+    
+            <h3 style="color: #0DA4B5">Le réseau</h3>
+            <hr>
+    
+            <div class="uk-grid-match uk-child-width-1-1@m" uk-grid>
+                <div>
+                    <p>Créées par des travailleurs africains, prestataires intellectuels occasionnels et
+                        formateurs professionnels, tous autour d’une même mission, aider les
+                        entreprises, institutions publiques, ONG et particuliers dans le
+                        développement, la croissance et la performance de leurs activités ; en
+                        renforçant leurs compétences.
+                    </p>
+                </div>
+            </div>
+            <br>
+            <div>
+                <h4 style="color: #0DA4B5">DGI-Consulting forme :</h4>
+                <ul class="uk-list uk-list-circle">
+                    <li>Aux métiers du Management de projets, de l’organisation du travail,
+                        de la prestation de service intellectuel.</li>
+                    <li>Aux métiers associés et/ou assimilés, comptabilité, audit, contrôle de
+                        gestion.</li>
+                    <li>Aux métiers du tertiaire qualité, hygiène, environnement, sécurité,
+                        management.</li>
+                </ul>
+            </div>
+
+            <h3 style="color: #0DA4B5">DGI Consulting au Cameroun</h3>
+            <hr>
+            <p>
+                Elles proposent également un outil de gestion des ressources humaines au
+                service de la performance des entreprises : les Certificats de Qualification
+                Professionnelle, leurs efficacités et leurs créativités.
+                DGI Consulting, par le biais de son organisme de formation, et de ses
+                organismes et universités partenaires, assiste plus de 80 PME/PMI et 8
+                Grandes entreprises dans l’élaboration, l’optimisation et la réalisation de leur
+                plan de formation depuis plusieurs années et, forme 300 à 400 stagiaires
+                chaque année.
+                DGI Consulting propose l’accompagnement vers les certifications
+                professionnelles et internationales dans différents domaines en partenariat
+                avec les organismes habiletés à le faire.
+            </p>
+    
+            <h3 style="color: #0DA4B5">Une équipe à votre disposition pour le succès de vos projets</h3>
+            <hr>
+            <div class="uk-grid-match uk-child-width-1-3@m" uk-grid>
+                <div>
+                    <ul class="uk-list">
+                        <li><h4> <img src="icones/flecheDroit.png" alt="fleche"> Direction Commerciale</h4></li>
+                        <li><h4><strong>Carine ONANA</strong></h4></li>
+                        <li>Business developper</li>
+                        <li>+237 657 759547</li>
+                        <li>carinatecla@dgi-consultingscm.com</li>
+                    </ul>
+                </div>
+                <div>
+                    <ul class="uk-list">
+                        <li><h4> <img src="icones/flecheDroit.png" alt="fleche"> Conseillers Formation</h4></li>
+                        <li><h4><strong>Brown Elad</strong></h4></li>
+                        <li>Formations management</li>
+                        <li>+237 698300268</li>
+                        <li>elad@dgi-consultingscm.com</li>
+                    </ul>
+                </div>
+                <div>
+                    <ul class="uk-list">
+                        <li><h4> <img src="icones/flecheDroit.png" alt="fleche"> Accueil</h4></li>
+                        <li><h4><strong>Prystilla NSOCK</strong></h4></li>
+                        <li>Assistante Chargée Clientèle</li>
+                        <li>+237 696970883</li>
+                        <li>prystilla@ dgi-consultingscm.com</li>
+                    </ul>
+                </div>
+                <div>
+                    <ul class="uk-list">
+                        <li><h4> <img src="icones/flecheDroit.png" alt="fleche"> Conseillers Formation</h4></li>
+                        <li><h4><strong>Marie Gabrielle ODA</strong></h4></li>
+                        <li>Formation marketing-commerciale</li>
+                        <li>+237 699106743</li>
+                        <li>mariegabrielle@dgi-consultingscm.com</li>
+                    </ul>
+                </div>
+                <div>
+                    <ul class="uk-list">
+                        <li><h4> <img src="icones/flecheDroit.png" alt="fleche"> Comptabilité</h4></li>
+                        <li><h4><strong>Mansie Robert</strong></h4></li>
+                        <li>Comptable</li>
+                        <li>+237 697162893</li>
+                        <li>mansie@ dgi-consultingscm.com</li>
+                    </ul>
+                </div>
+                <div>
+                    <ul class="uk-list">
+                        <li><h4> <img src="icones/flecheDroit.png" alt="fleche"> Conseillers Formation</h4></li>
+                        <li><h4><strong>Christine Assene Ayo</strong></h4></li>
+                        <li>Stagiaire commerciale</li>
+                        <li>+237 690214517</li>
+                        <li>christine@dgi-consultingscm.com</li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+        
 @endsection

@@ -5,7 +5,8 @@
             <div class="header-row">
                 <div class="header-column">
                     <div class="header-logo">
-                        <a href="{{ route('home') }}"><img src="icones/Logo.png" alt="DGI Logo"></a>
+                        <a href="{{ route('home') }}"><img src="icones/LogoDGI.png"
+                            width="319" height="80" alt="DGI Logo"></a>
                     </div>
                 </div>
                 <div class="header-column">
@@ -121,6 +122,9 @@
                                 <ul class="dropdown-menu">
                                     <li>
                                         <a href="{{ route('dgi-info') }}">DGI Info</a>
+                                    </li>
+                                    <li>
+                                        <a href="{{ route('methode-pedagogique') }}">méthodes pédagogiques</a>
                                     </li>
                                     <li>
                                         <a href="{{ route('equipe') }}">L'équipe</a>

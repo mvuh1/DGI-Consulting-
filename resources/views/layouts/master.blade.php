@@ -8,7 +8,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>DGI Consulting</title>
+	<title>DGI Consulting</title>{{-- 
 	<meta name="description" content="LGP Conseil, spécialiste en management des dynamiques humaines depuis 2002">
 	<meta property="og:title"
 		content="LGP Conseil, organisme de formation et cabinet conseil en management et évolution professionnelle." />
@@ -18,10 +18,10 @@
 	<meta property="og:url" content="index.html" />
 	<meta property="og:image" content="images/seo/open-graph.jpg" />
 	<meta property="og:site_name" content="LGP Conseil">
-	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:locale" content="fr_FR" /> --}}
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-	<link rel="shortcut icon" href="{{ asset('icones/Logo.ico') }}">
+	<link rel="shortcut icon" href="{{ asset('icones/Logo.ico') }}">{{-- 
 	<link rel="canonical" href="index.html" />
 	<link rel="image_src" href="images/seo/thumbnail.jpg" />
 	<link
@@ -34,7 +34,7 @@
 	<link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
 	<link rel="manifest" href="images/favicons/manifest.json">
 	<link rel="mask-icon" href="images/favicons/safari-pinned-tab.svg" color="#5bbad5">
-	<meta name="theme-color" content="#ffffff">
+	<meta name="theme-color" content="#ffffff"> --}}
 
 	<link rel="stylesheet" href="{{ asset('includes/externe/bootstrap/css/bootstrap.min.css') }}">
 	<link rel="stylesheet" href="{{ asset('includes/externe/font-awesome/css/font-awesome.min.css') }}">

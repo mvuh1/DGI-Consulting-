@@ -3,8 +3,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4 col-xs-12 text-left">
-				<h5 class="mb-md">Nous contacter</h5>
-				<span class="phone">+ 33 (0)7 67 22 34 51</span>
+				<h5 class="mb-md phone">Nous contacter</h5>
+				<span class="phone" style="font-size: 15px">Tél : +237 693389250</span>
+				<span class="phone" style="font-size: 15px">E-mail : infos@dgi-consultingcm.com</span>
 			</div>
 			<div class="col-md-3 col-xs-12 text-left">
 				<h5 class="mb-md">Suivez-nous</h5>
