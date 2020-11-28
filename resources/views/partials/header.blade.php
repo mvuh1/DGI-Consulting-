@@ -5,7 +5,7 @@
             <div class="header-row">
                 <div class="header-column">
                     <div class="header-logo">
-                        <a href="{{ route('home') }}"><img src="icones/LogoDGI.png"
+                        <a href="{{ route('home') }}"><img src="{{ asset('icones/LogoDGI.png') }}"
                             width="319" height="80" alt="DGI Logo"></a>
                     </div>
                 </div>
@@ -82,14 +82,47 @@
                             <li class="dropdown ">
                                 <a href="#" class="dropdown-toggle">Nos formations</a>
                                 <ul class="dropdown-menu">
-                                    <li>
-                                        <a href="#">E-Formation</a>
+                                    <li class="dropdown-submenu">
+                                        <a href="#">Formation de</a>
+                                        <ul class="dropdown-menu">
+                                            <li>
+                                                <a href="{{ route('formateur-adulte') }}">formateur d’adulte</a>
+                                            </li>
+                                            <li>
+                                                <a href="{{ route('formateur-formateur') }}">consultant formateur</a>
+                                            </li>
+                                            <li>
+                                                <a href="{{ route('f-consultant') }}">consultant</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#">Responsable</a>
+                                        <ul class="dropdown-menu">
+                                            <li>
+                                                <a href="">en ingénierie de formation</a>
+                                            </li>
+                                            <li>
+                                                <a href="">de formation </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#">Consultant en</a>
+                                        <ul class="dropdown-menu">
+                                            <li>
+                                                <a href="">management</a>
+                                            </li>
+                                            <li>
+                                                <a href="">ressources humaines </a>
+                                            </li>
+                                            <li>
+                                                <a href="">management des projets </a>
+                                            </li>
+                                        </ul>
                                     </li>
                                     <li>
-                                        <a href="#">Marketing Digital</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Management D'organisation</a>
+                                        <a href="#">gestion d’un établissement</a>
                                     </li>
                                 </ul>
                             </li>

@@ -25,9 +25,15 @@ Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
 Route::view('/msg', 'emails.messages.created')->name('msg');
 
 Route::view('/','layouts.index')->name('home');
+
 Route::view('/contact','pages.contact')->name('contact');
-Route::view('/methode-pedagogique','pages.methode-pedagogique')->name('methode-pedagogique');
-Route::view('/equipe','pages.equipe')->name('equipe');
-Route::view('/dgi-info','pages.dgi_info')->name('dgi-info');
+
+Route::view('/Apropos/methode-pedagogique','pages.AproposDeNous.methode-pedagogique')->name('methode-pedagogique');
+Route::view('/Apropos/equipe','pages.AproposDeNous.equipe')->name('equipe');
+Route::view('/Apropos/dgi-info','pages.AproposDeNous.dgi_info')->name('dgi-info');
+
+Route::view('/formations/formationDe/formateur-adulte','pages.formations.formationDe.formateur_adulte')->name('formateur-adulte');
+Route::view('/formations/formationDe/formateur-formateur','pages.formations.formationDe.formateur_formateur')->name('formateur-formateur');
+Route::view('/formations/formationDe/f-consultant','pages.formations.formationDe.f_consultant')->name('f-consultant');
 
 Route::resource('formations', FormationController::class)->middleware('auth');
