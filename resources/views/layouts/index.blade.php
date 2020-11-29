@@ -2,7 +2,7 @@
 
 @section('content')
 	<section class="parallax section section-parallax parallax-disabled section-parallax-home"
-		data-plugin-parallax data-image-src="/images/home_image.png">
+		data-plugin-parallax data-image-src="{{ asset('public/images/home_image.png') }}">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -26,7 +26,7 @@
 								<div class="featured-box featured-box-primary appear-animation mt-md"
 									data-appear-animation="fadeInUp" data-appear-animation-delay="0">
 									<div class="box-content">
-										<img src="{{ asset('images/img1.png') }}" class="img-responsive"
+										<img src="{{ asset('public/images/img1.png') }}" class="img-responsive"
                                         alt="Gildas Perrot, Président Associé - Consultant et formateur">
 										<h4><a href="votre-projet/mobiliser-les-energies/6/19.html">Mobiliser
 												les énergies</a></h4>
@@ -40,7 +40,7 @@
 								<div class="featured-box featured-box-primary appear-animation mt-md"
 									data-appear-animation="fadeInUp" data-appear-animation-delay="300">
 									<div class="box-content">
-										<img src="{{ asset('images/img2.png') }}" class="img-responsive"
+										<img src="{{ asset('public/images/img2.png') }}" class="img-responsive"
                                         alt="Gildas Perrot, Président Associé - Consultant et formateur">
 										<h4><a href="votre-projet/developper-les-talents/6/20.html">Développer
 												les talents</a></h4>
@@ -54,7 +54,7 @@
 								<div class="featured-box featured-box-primary appear-animation mt-md"
 									data-appear-animation="fadeInUp" data-appear-animation-delay="600">
 									<div class="box-content">
-										<img src="{{ asset('images/img3.png') }}" class="img-responsive"
+										<img src="{{ asset('public/images/img3.png') }}" class="img-responsive"
                                         alt="Gildas Perrot, Président Associé - Consultant et formateur">
 										<h4><a href="votre-projet/penser-le-travail/6/21.html">Repenser le
 												travail</a></h4>
@@ -68,7 +68,7 @@
 								<div class="featured-box featured-box-primary appear-animation mt-md"
 									data-appear-animation="fadeInUp" data-appear-animation-delay="900">
 									<div class="box-content">
-										<img src="{{ asset('images/img4.png') }}" class="img-responsive"
+										<img src="{{ asset('public/images/img4.png') }}" class="img-responsive"
                                         alt="Gildas Perrot, Président Associé - Consultant et formateur">
 										<h4><a href="votre-projet/partager-les-savoirs/6/22.html">Partager les
 												savoirs</a></h4>
@@ -82,7 +82,7 @@
 								<div class="featured-box featured-box-primary appear-animation mt-md"
 									data-appear-animation="fadeInUp" data-appear-animation-delay="0">
 									<div class="box-content">
-										<img src="{{ asset('images/img5.png') }}" class="img-responsive"
+										<img src="{{ asset('public/images/img5.png') }}" class="img-responsive"
                                         alt="Gildas Perrot, Président Associé - Consultant et formateur">
 										<h4><a href="votre-projet/mobiliser-les-energies/6/19.html">Mobiliser
 												les énergies</a></h4>
@@ -96,7 +96,7 @@
 								<div class="featured-box featured-box-primary appear-animation mt-md"
 									data-appear-animation="fadeInUp" data-appear-animation-delay="300">
 									<div class="box-content">
-										<img src="{{ asset('images/img6.png') }}" class="img-responsive"
+										<img src="{{ asset('public/images/img6.png') }}" class="img-responsive"
                                         alt="Gildas Perrot, Président Associé - Consultant et formateur">
 										<h4><a href="votre-projet/developper-les-talents/6/20.html">Développer
 												les talents</a></h4>
@@ -110,7 +110,7 @@
 								<div class="featured-box featured-box-primary appear-animation mt-md"
 									data-appear-animation="fadeInUp" data-appear-animation-delay="600">
 									<div class="box-content">
-										<img src="{{ asset('images/img7.png') }}" class="img-responsive"
+										<img src="{{ asset('public/images/img7.png') }}" class="img-responsive"
                                         alt="Gildas Perrot, Président Associé - Consultant et formateur">
 										<h4><a href="votre-projet/penser-le-travail/6/21.html">Repenser le
 												travail</a></h4>
@@ -124,7 +124,7 @@
 								<div class="featured-box featured-box-primary appear-animation mt-md"
 									data-appear-animation="fadeInUp" data-appear-animation-delay="900">
 									<div class="box-content">
-										<img src="{{ asset('images/img8.png') }}" class="img-responsive"
+										<img src="{{ asset('public/images/img8.png') }}" class="img-responsive"
                                         alt="Gildas Perrot, Président Associé - Consultant et formateur">
 										<h4><a href="votre-projet/partager-les-savoirs/6/22.html">Partager les
 												savoirs</a></h4>
