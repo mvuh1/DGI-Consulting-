@@ -161,23 +161,23 @@
                                 <div class="featured-box featured-box-primary featured-box-effect-3">
                                     <div class="box-content text-left bgcolor-4">
                                         <i class="icon-featured ">
-                                            <img src="{{ asset('icones/organisation.png') }}" alt="">
+                                            <img src="{{ asset('public/icones/organisation.png') }}" alt="">
                                         </i>
                                         <h4>Agence Yaoundé</strong></h4>
                                         <ul class="list list-icons list-icons-style-3">
                                             <li>
                                                 <i class="fa">
-                                                    <img src="{{ asset('icones/marker2.png') }}" alt="">
+                                                    <img src="{{ asset('public/icones/marker2.png') }}" alt="">
                                                 </i>
                                                 Rue foé (montée mobil Essos) – rezde-chaussée hôtel FELIDAC</li>
                                             <li>
                                                 <i class="fa">
-                                                    <img src="{{ asset('icones/phoneWhite.png') }}" alt="">
+                                                    <img src="{{ asset('public/icones/phoneWhite.png') }}" alt="">
                                                 </i> (+237) 693389250 / 659132273
                                             </li>
                                             <li>
                                                 <i class="fa ">
-                                                    <img src="{{ asset('icones/clock.png') }}" alt="">
+                                                    <img src="{{ asset('public/icones/clock.png') }}" alt="">
                                                 </i> Du lundi au vendredi de 9h à 18h
                                             </li>
                                         </ul>
@@ -186,17 +186,17 @@
                                         <ul class="list list-icons list-icons-style-3">
                                             <li>
                                                 <i class="fa">
-                                                    <img src="{{ asset('icones/marker2.png') }}" alt="">
+                                                    <img src="{{ asset('public/icones/marker2.png') }}" alt="">
                                                 </i>
                                                 Douala Akwa, carrefour Arnaud</li>
                                             <li>
                                                 <i class="fa">
-                                                    <img src="{{ asset('icones/phoneWhite.png') }}" alt="">
+                                                    <img src="{{ asset('public/icones/phoneWhite.png') }}" alt="">
                                                 </i>+237 693389250
                                             </li>
                                             <li>
                                                 <i class="fa ">
-                                                    <img src="{{ asset('icones/clock.png') }}" alt="">
+                                                    <img src="{{ asset('public/icones/clock.png') }}" alt="">
                                                 </i> Du lundi au vendredi de 9h à 18h
                                             </li>
                                         </ul>

@@ -27,7 +27,7 @@
 					</li>
 					<li class="social-icons-linkedin mr-xs">
 						<a href="#" title="Contact DGI">
-							<img src="{{ asset('public/public/icones/mail.png') }}" alt="mail">
+							<img src="{{ asset('public/icones/mail.png') }}" alt="mail">
 						</a>
 					</li>
 				</ul>
