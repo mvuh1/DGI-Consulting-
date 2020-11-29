@@ -95,7 +95,7 @@
 
 	<script src="{{ asset('includes/js/theme.js') }}"></script>
 
-	<script src="404.html"></script>
+	{{-- <script src="404.html"></script> --}}
 	<script src="{{ asset('includes/js/theme.init3fdf.js?v=20201116-02') }}"></script>
 
 	<!-- jQuery CDN - Slim version (=without AJAX) -->
@@ -111,7 +111,7 @@
 	  integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm"
 	  crossorigin="anonymous"></script>
 
-	<script>      
+	{{-- <script>      
 		var pageTrackParams = {
 			buzzeeServer: 'http://ids33023.delosmail.com/ServePage',
 			fullUrl: true,
@@ -122,7 +122,7 @@
 		w2l.push(['w2l_trackPage', pageTrackParams]);
 		var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0]; g.type = 'text/javascript'; g.defer = true; g.async = true; g.src = '../trk.buzzee.fr/w2lbuzzeetracking.js';
 		s.parentNode.insertBefore(g, s); 
-	</script>
+	</script> --}}
 </body>
 
 </html>

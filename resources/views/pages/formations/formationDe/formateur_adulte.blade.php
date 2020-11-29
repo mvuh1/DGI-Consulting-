@@ -454,34 +454,36 @@
                         <p><strong> Date limite d’inscription : </strong> 
                             5 jours ouvrés et dans la mesure où il reste des places.
                         </p>
-                        <div>
-                            <table class="uk-table">
-                                <caption><strong>Prix de formation pour 1 stagiaire</strong></caption>
-                                <thead>
-                                    <tr>
-                                        <th>Intitulé du budget</th>
-                                        <th>Nombre d’heure</th>
-                                        <th>Coût</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Inscription</td>
-                                        <td> </td>
-                                        <td>50 000</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Session de formation</td>
-                                        <td>42</td>
-                                        <td>388 000</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Total net</td>
-                                        <td>42</td>
-                                        <td>438 000</td>
-                                    </tr>
-                                </tbody>
-                            </table>
+                        <div class="row">
+                            <div class="col-md-8 col-sm-12">
+                                <table class="uk-table uk-table-divider">
+                                    <caption><strong>Prix de formation pour 1 stagiaire</strong></caption>
+                                    <thead>
+                                        <tr>
+                                            <th>Intitulé du budget</th>
+                                            <th>Nombre d’heure</th>
+                                            <th>Coût</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Inscription</td>
+                                            <td> </td>
+                                            <td>50 000</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Session de formation</td>
+                                            <td>42</td>
+                                            <td>388 000</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Total net</td>
+                                            <td>42</td>
+                                            <td>438 000</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
                         </div>
                         <p>
                             <strong>NB : tous nos montants sont en FCFA Pour</strong> 
