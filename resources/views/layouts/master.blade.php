@@ -21,7 +21,7 @@
 	<meta property="og:locale" content="fr_FR" /> --}}
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-	<link rel="shortcut icon" href="{{ asset('icones/Logo.ico') }}">{{-- 
+	<link rel="shortcut icon" href="{{ asset('public/icones/Logo.ico') }}">{{-- 
 	<link rel="canonical" href="index.html" />
 	<link rel="image_src" href="images/seo/thumbnail.jpg" />
 	<link
@@ -36,22 +36,22 @@
 	<link rel="mask-icon" href="images/favicons/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="theme-color" content="#ffffff"> --}}
 
-	<link rel="stylesheet" href="{{ asset('includes/externe/bootstrap/css/bootstrap.min.css') }}">
-	<link rel="stylesheet" href="{{ asset('includes/externe/font-awesome/css/font-awesome.min.css') }}">
-	<link rel="stylesheet" href="{{ asset('includes/externe/animate/animate.min.css') }}">
-	<link rel="stylesheet" href="{{ asset('includes/externe/simple-line-icons/css/simple-line-icons.min.css') }}">
-	<link rel="stylesheet" href="{{ asset('includes/externe/owl.carousel/assets/owl.carousel.min.css') }}">
-	<link rel="stylesheet" href="{{ asset('includes/externe/owl.carousel/assets/owl.theme.default.min.css') }}">
-	<link rel="stylesheet" href="{{ asset('includes/externe/magnific-popup/magnific-popup.min.css') }}">
+	<link rel="stylesheet" href="{{ asset('public/includes/externe/bootstrap/css/bootstrap.min.css') }}">
+	<link rel="stylesheet" href="{{ asset('public/includes/externe/font-awesome/css/font-awesome.min.css') }}">
+	<link rel="stylesheet" href="{{ asset('public/includes/externe/animate/animate.min.css') }}">
+	<link rel="stylesheet" href="{{ asset('public/includes/externe/simple-line-icons/css/simple-line-icons.min.css') }}">
+	<link rel="stylesheet" href="{{ asset('public/includes/externe/owl.carousel/assets/owl.carousel.min.css') }}">
+	<link rel="stylesheet" href="{{ asset('public/includes/externe/owl.carousel/assets/owl.theme.default.min.css') }}">
+	<link rel="stylesheet" href="{{ asset('public/includes/externe/magnific-popup/magnific-popup.min.css') }}">
 
-	<link rel="stylesheet" href="{{ asset('includes/css/theme3fdf.css?v=20201116-02') }}">
-	<link rel="stylesheet" href="{{ asset('includes/css/theme-elements.css') }}">
-	<link rel="stylesheet" href="{{ asset('includes/css/theme-blog.css') }}">
+	<link rel="stylesheet" href="{{ asset('public/includes/css/theme3fdf.css?v=20201116-02') }}">
+	<link rel="stylesheet" href="{{ asset('public/includes/css/theme-elements.css') }}">
+	<link rel="stylesheet" href="{{ asset('public/includes/css/theme-blog.css') }}">
 
-	<link rel="stylesheet" href="{{ asset('includes/css/skin3fdf.css?v=20201116-02') }}">
-	<link rel="stylesheet" href="{{ asset('includes/css/custom3fdf.css?v=20201116-02') }}">
+	<link rel="stylesheet" href="{{ asset('public/includes/css/skin3fdf.css?v=20201116-02') }}">
+	<link rel="stylesheet" href="{{ asset('public/includes/css/custom3fdf.css?v=20201116-02') }}">
 
-	<script src="{{ asset('includes/externe/modernizr/modernizr.min.js') }}"></script>
+	<script src="{{ asset('public/includes/externe/modernizr/modernizr.min.js') }}"></script>
 
 	<!-- UIkit CSS -->
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.5.9/dist/css/uikit.min.css" />
@@ -78,25 +78,25 @@
 	</div>
 
 	<!-- Vendor -->
-	<script src="{{ asset('includes/externe/jquery/jquery.min.js') }}"></script>
-	<script src="{{ asset('includes/externe/jquery.appear/jquery.appear.min.js') }}"></script>
-	<script src="{{ asset('includes/externe/jquery.easing/jquery.easing.min.js') }}"></script>
-	<script src="{{ asset('includes/externe/jquery-cookie/jquery-cookie.min.js') }}"></script>
-	<script src="{{ asset('includes/externe/bootstrap/js/bootstrap.min.js') }}"></script>
-	<script src="{{ asset('includes/externe/common/common.min.js') }}"></script>
-	<script src="{{ asset('includes/externe/jquery.validation/jquery.validation.min.js') }}"></script>
-	<script src="{{ asset('includes/externe/jquery.easy-pie-chart/jquery.easy-pie-chart.min.js') }}"></script>
-	<script src="{{ asset('includes/externe/jquery.gmap/jquery.gmap.min.js') }}"></script>
-	<script src="{{ asset('includes/externe/jquery.lazyload/jquery.lazyload.min.js') }}"></script>
-	<script src="{{ asset('includes/externe/isotope/jquery.isotope.min.js') }}"></script>
-	<script src="{{ asset('includes/externe/owl.carousel/owl.carousel.min.js') }}"></script>
-	<script src="{{ asset('includes/externe/magnific-popup/jquery.magnific-popup.min.js') }}"></script>
-	<script src="{{ asset('includes/externe/vide/vide.min.js') }}"></script>
+	<script src="{{ asset('public/includes/externe/jquery/jquery.min.js') }}"></script>
+	<script src="{{ asset('public/includes/externe/jquery.appear/jquery.appear.min.js') }}"></script>
+	<script src="{{ asset('public/includes/externe/jquery.easing/jquery.easing.min.js') }}"></script>
+	<script src="{{ asset('public/includes/externe/jquery-cookie/jquery-cookie.min.js') }}"></script>
+	<script src="{{ asset('public/includes/externe/bootstrap/js/bootstrap.min.js') }}"></script>
+	<script src="{{ asset('public/includes/externe/common/common.min.js') }}"></script>
+	<script src="{{ asset('public/includes/externe/jquery.validation/jquery.validation.min.js') }}"></script>
+	<script src="{{ asset('public/includes/externe/jquery.easy-pie-chart/jquery.easy-pie-chart.min.js') }}"></script>
+	<script src="{{ asset('public/includes/externe/jquery.gmap/jquery.gmap.min.js') }}"></script>
+	<script src="{{ asset('public/includes/externe/jquery.lazyload/jquery.lazyload.min.js') }}"></script>
+	<script src="{{ asset('public/includes/externe/isotope/jquery.isotope.min.js') }}"></script>
+	<script src="{{ asset('public/includes/externe/owl.carousel/owl.carousel.min.js') }}"></script>
+	<script src="{{ asset('public/includes/externe/magnific-popup/jquery.magnific-popup.min.js') }}"></script>
+	<script src="{{ asset('public/includes/externe/vide/vide.min.js') }}"></script>
 
-	<script src="{{ asset('includes/js/theme.js') }}"></script>
+	<script src="{{ asset('public/includes/js/theme.js') }}"></script>
 
 	{{-- <script src="404.html"></script> --}}
-	<script src="{{ asset('includes/js/theme.init3fdf.js?v=20201116-02') }}"></script>
+	<script src="{{ asset('public/includes/js/theme.init3fdf.js?v=20201116-02') }}"></script>
 
 	<!-- jQuery CDN - Slim version (=without AJAX) -->
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"

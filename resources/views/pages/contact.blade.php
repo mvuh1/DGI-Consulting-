@@ -12,7 +12,7 @@
                     <div class="col-md-10">
                         <div class="uk-panel">
                             <img class="uk-align-center uk-align-right@m uk-margin-remove-adjacent" 
-                                src="{{ asset('images/forTest.jpg') }}" width="225" height="150" alt="Example image">
+                                src="{{ asset('public/images/forTest.jpg') }}" width="225" height="150" alt="Example image">
                             <div>
                                 <strong>Yaoundé</strong> <br>
                                 Rue foé (montée mobil Essos) – rezde-chaussée hôtel FELIDAC <br>
@@ -30,7 +30,7 @@
                     <div class="col-md-10">
                         <div class="uk-panel">
                             <img class="uk-align-center uk-align-right@m uk-margin-remove-adjacent" 
-                                src="{{ asset('images/forTest.jpg') }}" width="225" height="150" alt="Example image">
+                                src="{{ asset('public/images/forTest.jpg') }}" width="225" height="150" alt="Example image">
                             <div>
                                     <strong>Douala</strong> <br> 
                                     Douala Akwa, carrefour Arnaud<br>

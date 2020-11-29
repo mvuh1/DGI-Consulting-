@@ -4,7 +4,7 @@
 
     <div role="main" class="main">
         <section class="parallax section section-parallax parallax-disabled section-parallax-cms"
-            data-plugin-parallax data-image-src="{{ asset('images/home_image.png') }}"
+            data-plugin-parallax data-image-src="{{ asset('public/images/home_image.png') }}"
             style="height: 350px"></section>
 
         <section class="section section-no-background section-no-border mt-none pt-none mb-none pb-none">
