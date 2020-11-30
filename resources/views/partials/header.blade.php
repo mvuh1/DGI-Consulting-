@@ -5,7 +5,7 @@
             <div class="header-row">
                 <div class="header-column">
                     <div class="header-logo">
-                        <a href="{{ route('home') }}"><img src="{{ asset('public/icones/LogoDGI.png') }}"
+                        <a href="{{ route('home') }}"><img src="{{ asset('public/icones/logo.jpg') }}"
                             width="319" height="80" alt="DGI Logo"></a>
                     </div>
                 </div>
