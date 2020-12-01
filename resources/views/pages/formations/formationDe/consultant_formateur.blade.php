@@ -4,7 +4,7 @@
 
 <div role="main" class="main">
     <section class="parallax section section-parallax parallax-disabled section-parallax-cms"
-        data-plugin-parallax data-image-src="{{ asset('public/images/formation2.png') }}"
+        data-plugin-parallax data-image-src="{{ asset('images/formation2.png') }}"
         style="height: 350px"></section>
 
     <section class="section section-no-background section-no-border mt-none pt-none mb-none pb-none">
@@ -103,7 +103,7 @@
                 <div class="uk-grid-match uk-child-width-1-5@m" uk-grid>
                     <div>
                         <h4 uk-tooltip="title:plus de détails ?; pos: top-left"> 
-                            <img src="{{asset('public/icones/flecheDroit.png')}}" alt="fleche">
+                            <img src="{{asset('icones/flecheDroit.png')}}" alt="fleche">
                             <span uk-toggle="target: #module1">
                                 <a class="uk-link-heading" href="#">Module 1</a>
                             </span>
@@ -155,7 +155,7 @@
 
                     <div>
                         <h4 uk-tooltip="title:plus de détails ?; pos: top-left"> 
-                            <img src="{{asset('public/icones/flecheDroit.png')}}" alt="fleche">
+                            <img src="{{asset('icones/flecheDroit.png')}}" alt="fleche">
                             <span uk-toggle="target: #module2">
                                 <a class="uk-link-heading" href="#">Module 2</a>
                             </span>
@@ -198,7 +198,7 @@
 
                     <div>
                         <h4 uk-tooltip="title:plus de détails ?; pos: top-left"> 
-                            <img src="{{asset('public/icones/flecheDroit.png')}}" alt="fleche">
+                            <img src="{{asset('icones/flecheDroit.png')}}" alt="fleche">
                             <span uk-toggle="target: #module3">
                                 <a class="uk-link-heading" href="#">Module 3</a>
                             </span>
@@ -243,7 +243,7 @@
                     
                     <div>
                         <h4 uk-tooltip="title:plus de détails ?; pos: top-left"> 
-                            <img src="{{asset('public/icones/flecheDroit.png')}}" alt="fleche">
+                            <img src="{{asset('icones/flecheDroit.png')}}" alt="fleche">
                             <span uk-toggle="target: #module4">
                                 <a class="uk-link-heading" href="#">Module 4</a>
                             </span>
@@ -291,7 +291,7 @@
 
                     <div>
                         <h4 uk-tooltip="title:plus de détails ?; pos: top-left"> 
-                            <img src="{{asset('public/icones/flecheDroit.png')}}" alt="fleche">
+                            <img src="{{asset('icones/flecheDroit.png')}}" alt="fleche">
                             <span uk-toggle="target: #module5">
                                 <a class="uk-link-heading" href="#">Module 5</a>
                             </span>
@@ -339,7 +339,7 @@
 
                     <div>
                         <h4 uk-tooltip="title:plus de détails ?; pos: top-left"> 
-                            <img src="{{asset('public/icones/flecheDroit.png')}}" alt="fleche">
+                            <img src="{{asset('icones/flecheDroit.png')}}" alt="fleche">
                             <span uk-toggle="target: #module6">
                                 <a class="uk-link-heading" href="#">Module 6</a>
                             </span>
@@ -380,7 +380,7 @@
 
                     <div>
                         <h4 uk-tooltip="title:plus de détails ?; pos: top-left"> 
-                            <img src="{{asset('public/icones/flecheDroit.png')}}" alt="fleche">
+                            <img src="{{asset('icones/flecheDroit.png')}}" alt="fleche">
                             <span uk-toggle="target: #module7">
                                 <a class="uk-link-heading" href="#">Module 7</a>
                             </span>
@@ -570,16 +570,16 @@
                     <h5 class="mb-md phone">DATES DE DEMMARRAGE DES SESSIONS</h5>
                     <div style="margin-left: 15px">
                         <p class="phone" style="font-size: 15px; color: whitesmoke">
-                            <img src="{{ asset('public/icones/forward_16px.png') }}" alt="">  05 Février 2021
+                            <img src="{{ asset('icones/forward_16px.png') }}" alt="">  05 Février 2021
                         </p>
                         <p class="phone" style="font-size: 15px; margin-top:-15px; color: whitesmoke">
-                            <img src="{{ asset('public/icones/forward_16px.png') }}" alt="">  5 Mai 2021
+                            <img src="{{ asset('icones/forward_16px.png') }}" alt="">  5 Mai 2021
                         </p>
                         <p class="phone" style="font-size: 15px; margin-top:-15px; color: whitesmoke">
-                            <img src="{{ asset('public/icones/forward_16px.png') }}" alt="">  4 Septembre 2021
+                            <img src="{{ asset('icones/forward_16px.png') }}" alt="">  4 Septembre 2021
                         </p>
                         <p class="phone" style="font-size: 15px; margin-top:-15px; color: whitesmoke">
-                            <img src="{{ asset('public/icones/forward_16px.png') }}" alt="">  1 er Décembre 2021
+                            <img src="{{ asset('icones/forward_16px.png') }}" alt="">  1 er Décembre 2021
                         </p>
                     </div>
                 </div>

@@ -12,22 +12,22 @@
 				<ul class="social-icons mt-sm">
 					<li class="social-icons-facebook mr-xs">
 						<a href="#" target="_blank" title="Facebook">
-							<img src="{{ asset('public/icones/facebook.png') }}" alt="facebook">
+							<img src="{{ asset('icones/facebook.png') }}" alt="facebook">
 						</a>
 					</li>
 					<li class="social-icons-twitter mr-xs">
 						<a href="#" target="_blank" title="Twitter">
-							<img src="{{ asset('public/icones/twitter.png') }}" alt="twitter">
+							<img src="{{ asset('icones/twitter.png') }}" alt="twitter">
 						</a>
 					</li>
 					<li class="social-icons-linkedin mr-xs">
 						<a href="#" target="_blank" title="Linkedin">
-							<img src="{{ asset('public/icones/linkedin.png') }}" alt="linkedin">
+							<img src="{{ asset('icones/linkedin.png') }}" alt="linkedin">
 						</a>
 					</li>
 					<li class="social-icons-linkedin mr-xs">
 						<a href="#" title="Contact DGI">
-							<img src="{{ asset('public/icones/mail.png') }}" alt="mail">
+							<img src="{{ asset('icones/mail.png') }}" alt="mail">
 						</a>
 					</li>
 				</ul>
