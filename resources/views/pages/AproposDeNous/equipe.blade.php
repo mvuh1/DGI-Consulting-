@@ -22,7 +22,7 @@
                             <span class="thumb-info-wrapper">
                                 <a
                                     href="#">
-                                    <img src="{{ asset('img_collab/1.jpg') }}" class="img-responsive"
+                                    <img src="{{ asset('public/img_collab/1.jpg') }}" class="img-responsive"
                                         alt="Gildas Perrot, Président Associé - Consultant et formateur">
                                 </a>
                             </span>
@@ -40,7 +40,7 @@
                             <span class="thumb-info-wrapper">
                                 <a
                                     href="#">
-                                    <img src="{{ asset('img_collab/8.jpg') }}" class="img-responsive"
+                                    <img src="{{ asset('public/img_collab/8.jpg') }}" class="img-responsive"
                                         alt="Orlandino Ferreira, Directeur Associé - Consultant et coach">
                                 </a>
                             </span>
@@ -57,7 +57,7 @@
                             class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-borders thumb-collaborateur mt-md">
                             <span class="thumb-info-wrapper">
                                 <a href="#">
-                                    <img src="{{ asset('img_collab/5.jpg') }}" class="img-responsive"
+                                    <img src="{{ asset('public/img_collab/5.jpg') }}" class="img-responsive"
                                         alt="Jeanne Masson, Consultante - Formatrice">
                                 </a>
                             </span>
@@ -74,7 +74,7 @@
                             class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-borders thumb-collaborateur mt-md">
                             <span class="thumb-info-wrapper">
                                 <a href="#">
-                                    <img src="{{ asset('img_collab/23.jpg') }}" class="img-responsive"
+                                    <img src="{{ asset('public/img_collab/23.jpg') }}" class="img-responsive"
                                         alt="Marjolaine Fulchiron, Consultante en développement des RH">
                                 </a>
                             </span>
@@ -91,7 +91,7 @@
                             class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-borders thumb-collaborateur mt-md">
                             <span class="thumb-info-wrapper">
                                 <a href="#">
-                                    <img src="{{ asset('img_collab/20.jpg') }}" class="img-responsive"
+                                    <img src="{{ asset('public/img_collab/20.jpg') }}" class="img-responsive"
                                         alt="Lucie Launay, Consultante RH et Communication">
                                 </a>
                             </span>
@@ -108,7 +108,7 @@
                             class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-borders thumb-collaborateur mt-md">
                             <span class="thumb-info-wrapper">
                                 <a href="#">
-                                    <img src="{{ asset('img_collab/14.jpg') }}" class="img-responsive"
+                                    <img src="{{ asset('public/img_collab/14.jpg') }}" class="img-responsive"
                                         alt="Anne-Sophie Briffault, Psychologue Sociale et du Travail, Consultante, Responsable Evolution Pro">
                                 </a>
                             </span>
