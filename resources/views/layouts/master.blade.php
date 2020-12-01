@@ -64,7 +64,7 @@
 
 <body>
 	<div class="body">
-
+ 
 		{{-- le header --}}
 		@include('partials.header')
 
