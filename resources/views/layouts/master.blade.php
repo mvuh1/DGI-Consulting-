@@ -21,7 +21,7 @@
 	<meta property="og:locale" content="fr_FR" />
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-	<link rel="shortcut icon" href="{{ asset('public/icones/Logo.ico') }}">
+	<link rel="shortcut icon" href="{{ asset('public/icones//Logo.ico') }}">
 	<link rel="canonical" href="index.html" />
 	<link rel="image_src" href="images/seo/thumbnail.jpg" />
 	<link
