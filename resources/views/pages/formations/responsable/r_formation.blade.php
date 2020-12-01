@@ -13,7 +13,7 @@
                 <div class="col-lg-12 col-md-12 col-xs-12">
                     <ul class="breadcrumb mt-none pt-sm pl-none mb-none pb-sm">
                         <li>DGi</li>
-                        <li>Formation de formateur d'adulte</li>
+                        <li>Responsable de formation</li>
                     </ul>
                 </div>
             </div>
@@ -27,22 +27,18 @@
             <div class="uk-grid-match uk-child-width-1-1@m" uk-grid>
                 <div>
                     <p>
-                        Le consultant formateur est un prestataire de service intellectuel qui dispose d’une expérience
-                        avérée dans l’entreprise et de certaines expertises éprouvées au cours des missions de conseil. A
-                        partir de son expertise et son expérience en entreprise, il conçoit, réalise et anime des projets de
-                        formation. <br>
-                        Son rôle est de décrypter les besoins stratégiques des entreprises en matière de conseil et de la
-                        formation et de concevoir les offres apportant une valeur ajoutée optimale à l’entreprise. <br>
-                        Ces ensembles de mission du consultant formateur, nécessitent de sa part des connaissances et
-                        compétences transversales de nombreux domaines de gestion et, du processus méthodologique
-                        de l’ingénierie de l’intervention du consultant. <br>
-                        Les consultants formateurs peuvent être employés par des entreprises ou, demeurer
-                        indépendant. Il s’agit ici de la profession par excellence de tous ceux qui souhaitent une
-                        reconversion professionnelle vers la prestation de service ou ceux qui voudrait mettre à profit
-                        l’expérience acquise au cours de leurs années de travail. <br>
-                        La formation de consultant formateur transfère un dispositif opérationnel de compétences à ceux
-                        et à celles qui souhaitent se lancer dans le métier de consulting et la formation ainsi que pour les
-                        consultants en activité qui veulent découvrir les nouveaux espaces de développement.
+                        En règle générale le responsable de formation est rattaché à la direction générale ou direction des
+                        ressources humaines. A partir de cette position fonctionnelle ou hiérarchique, il analyse les
+                        besoins en compétences des salariés de l'entreprise et réponde à leurs demandes au travers des
+                        formations destinées au développement des compétences. Le responsable de formation
+                        accompagne également les salariés dans leur démarche d'appropriation des compétences et
+                        d'optimisation des performances. <br>
+                        Le responsable de formation peut aussi travailler au sein d’un cabinet de conseil et intervenir en
+                        tant que consultant spécialisé dans un domaine de formation, conseiller en développement des
+                        compétences ou directeur d'un service ou d'un centre de formation dans une entreprise privée
+                        ou publique. Dans la mesure où les métiers de la formation évoluent et nécessitent de nouvelles
+                        compétences en matière de l'ingénierie de formation et d'innovation, le responsable de formation
+                        a pour mission de répondre aux impératifs de la conduite des changements et des transitions.
                     </p>
                 </div>
             </div>
@@ -51,11 +47,15 @@
             <div>
                 <h3 style="color: #0DA4B5">Public visé</h3>
                 <hr>
+                <p><strong>Cette formation s’adresse :</strong></p>
                 <p>
-                    Formateur, cadre fonctionnel, ingénieur, travailleur retraité, travailleur en reconversion
-                    professionnelle, consultant indépendant et, à ceux ou celles qui souhaitent créer, adapter ou
-                    développer leurs compétences et faire évoluer leur expertise vers le métier de consultant
-                    formateur.
+                    Ce cycle de formation s'adresse aux responsables formation en prise de fonction ou à ceux qui
+                    souhaitent confronter leurs pratiques et évoluer dans leur parcours professionnel comme les
+                    chargés du développement des ressources humaines, responsables de recrutement, responsables
+                    chargés de mobilité et gestion des carrières, chefs de projet de l'ingénierie de formation ainsi que
+                    les managers opérationnels ou fonctionnels, consultants et formateurs et à tous ceux et celles qui
+                    souhaitent créer, adapter, perfectionner ou développer leurs compétences et faire évoluer leur
+                    expérience professionnelle vers le métier de responsable de formation.
                 </p>
             </div>
 
@@ -63,35 +63,32 @@
             <div>
                 <h3 style="color: #0DA4B5">Objectifs de la formation</h3>
                 <hr>
-                <p>Cette formation permettra aux stagiaires d’avoir la capacité d(e) :</p>
+                <p>Cette formation a pour but :</p>
                 <ul class="uk-list uk-list-square" style="margin-left: 20px">
                     <li>
-                        Développer l’impact de son leadership de consultant formateur par la maîtrise des
-                        mécanismes permettant de passer d'une logique d'expert à un processus du consulting
-                        stratégique.
+                        Savoir décrypter ce que l'entreprise attend d'un responsable de formation : avoir une vision
+                        claire sur son référentiel métier, ses missions et ses objectifs stratégiques et opérationnels ;
                     </li>
                     <li>
-                        Définir son positionnement par rapport au référentiel métier de consultant formateur et à la
-                        culture professionnelle en termes de valeurs, missions et prestations pour développer son
-                        activité avec un maximum d’efficacité.
+                        Traduire une stratégie d'entreprise en politique de formation et en plan de développement
+                        des compétences afin d'anticiper les mutations au niveau économique et technologique ;
                     </li>
                     <li>
-                        Conceptualiser une stratégie commerciale en cohérence avec son expertise de consulting et
-                        élaborer une architecture de projet marketing compatible avec les besoins de clients cibles et
-                        le réseau de business partenaires.
+                        Repérer et analyser les besoins en formation de l'entreprise, en cohérence avec la politique
+                        des ressources humaines et formaliser le plan de formation annuel ;
                     </li>
                     <li>
-                        Maitriser les processus stratégiques d'entreprise en intégrant le maniement des leviers de la
-                        performance de l’entreprise et accompagner leurs dirigeants à réussir leurs projets de
-                        changement.
+                        Acquérir les bases conceptuelles et pratiques de l'ingénierie de la formation, de la conduite de
+                        projets de formation et de la production des compétences dans le cadre GPEC ;
                     </li>
                     <li>
-                        S’approprier des compétences et des outils de l’ingénierie d’intervention en consulting pour
-                        concevoir des offres de conseil, réaliser les missions dans l’entreprise et fidéliser le client.
+                        Manager efficacement le service de formation sur le plan logistique, économique, stratégique,
+                        règlementaire, pédagogique et évaluer le retour investissement de la formation.
                     </li>
                     <li>
-                        Finaliser son projet professionnel de consultant et valider sa faisabilité par rapport à ses
-                        ressources en matière d'expertise ainsi qu'à son potentiel de développement commercial.
+                        Concevoir et développer l'architecture de son projet professionnel du responsable de
+                        formation avec la mise au point des modalités d’accompagnement des plans d’action post
+                        formation.
                     </li>
                 </ul>
             </div>
@@ -112,40 +109,33 @@
                             <div class="uk-modal-dialog uk-modal-body">
                                 <div>
                                     <h4> 
-                                        Module 1. Définir la stratégie marketing et d’action commerciale
+                                        Module 1: Modéliser son leadership de responsable de formation
                                     </h4>
                                     <ul class="uk-list uk-list-square" style="margin-left: 20px">
                                         <li>
-                                            L’analyse et définition des attentes tangibles et intangibles des entreprises en matière des
-                                            prestations immatérielles ainsi que de la part du consultant en tant qu’acteur
-                                            d’accomplissement de la mission.
+                                            Les différentes composantes du métier de responsable de formation et la polyvalence
+                                            nécessaire pour assurer avec efficacité les missions qui lui sont confiées dans le cadre de sa
+                                            fonction.
                                         </li>
                                         <li>
-                                            La définition du plan marketing des prestations du consulting et l’identification des
-                                            entreprises-cibles, leur profil d’achat des prestations de consulting situées dans le périmètre
-                                            d’expertise du stagiaire.
+                                            La posture professionnelle de responsable de formation : la formalisation de ses missions sur
+                                            la base de son capital d'expertise et le potentiel de ses ressources, technique et relationnelle.
                                         </li>
                                         <li>
-                                            L’appropriation des outils de la connaissance du client permettant de réaliser le décodage de
-                                            son profil professionnel et le discernement de ses besoins et attentes tangibles et intangibles
-                                            de la part du consultant.
+                                            L'analyse de son leadership de responsable de formation sur la base d’un référentiel des
+                                            compétences méthodologiques, relationnelles, informationnelles et organisationnelles.
                                         </li>
                                         <li>
-                                            Le marketing des prestations de conseil et les apports des nouvelles technologies
-                                            d’information et de communication pour l’optimisation de la visibilité des offres
-                                            commerciales.
+                                            Le discernement de son champ de performance potentielle et de sa capacité à transmettre aux
+                                            autres, ses connaissances, ses convictions et ses compétences opérationnelles.
                                         </li>
                                         <li>
-                                            La conception d'une architecture numérique de présentation de son cabinet ou service et créer
-                                            un dispositif de documentation commerciale destinée aux clients et aux prospects cibles.
+                                            La mise en phase de son leadership avec le référentiel de compétences du responsable de
+                                            formation et le synchroniser avec la spécificité de ses missions professionnelles
                                         </li>
                                         <li>
-                                            Le processus de la formalisation des offres commerciales de conseil, d’élaboration des plans
-                                            d’action de prospection et de négociation des conditions tarifaires.
-                                        </li>
-                                        <li>
-                                            Les stratégies d’animation des réseaux professionnels et le développement de partenariats sur
-                                            les bases pluridisciplinaires, de la complémentarité fonctionnelle et/ou commerciale.
+                                            L'entrainement aux pratiques de l'exercice du leadership de responsable de formation pour
+                                            acquérir les bons réflexes qui vont produire la posture d'un professionnel expérimenté.
                                         </li>
                                     </ul>
                                 </div>
@@ -164,31 +154,33 @@
                             <div class="uk-modal-dialog uk-modal-body">
                                 <div>
                                     <h4> 
-                                        Module 2: Développer le dispositif de l’ingénierie méthodologique de consultant
+                                        Module 2: Positionner son métier de responsable de formation dans l’entreprise
                                     </h4>
                                     <ul class="uk-list uk-list-square" style="margin-left: 20px">
                                         <li>
-                                            L’appropriation des méthodes de formalisation d’un modèle de cahier des charges et sa
-                                            traduction en projets de consulting opérationnels en cohérence avec les objectifs de client.
+                                            Comment impliquer l’équipe de formation au processus d’autoévaluation des pratiques afin
+                                            de créer une synergie fonctionnelle, basée sur une vision de l’excellence professionnelle ?
                                         </li>
                                         <li>
-                                            L'élaboration des outils de réalisation des diagnostics du système organisationnel de
-                                            l'entreprise sur la base des référentiels fonctionnels de compétences et formalisation des
-                                            préconisations opérationnelles.
+                                            Les entrainements au maniement des outils d'analyse et d'audit de la fonction de formation
+                                            dans l'entreprise et formaliser les préconisations pour la faire évoluer.
                                         </li>
                                         <li>
-                                            Les techniques d'entretien de conseil pour appréhender les réalités du client, définir le
-                                            processus de l'analyse de la demande et lancer la conception du pré-projet de consulting.
+                                            L’initiation à l’extrapolation des données du diagnostic et la définition des objectifs de progrès
+                                            à moyen et à long terme pour donner à son entreprise un véritable avantage concurrentiel.
                                         </li>
                                         <li>
-                                            L’architecture, les principes et les méthodes d'organisation d’un projet de consulting et
-                                            élaboration des scénarios stratégiques de sa présentation personnalisée au client ou à un
-                                            comité de décideurs.
+                                            La prise de connaissance des référentiels pour évaluer les projets de formation de la
+                                            conformité du cahier des charges jusqu’à l’évaluation des connaissances avant, pendant et
+                                            après la formation.
                                         </li>
                                         <li>
-                                            Les conditions de réussite d’une opération de lancement d’un service de consultant
-                                            fonctionnel dans l’entreprise ou d’un cabinet de consultant indépendant : les préconisations
-                                            pratiques
+                                            La responsabilité opérationnelle du responsable de formation dans l'optimisation des impacts
+                                            des actions de formation sur sa performance opérationnelle des stagiaires formés.
+                                        </li>
+                                        <li>
+                                            Le cas pratique : la formulation des indicateurs et formalisation d'un référentiel global
+                                            d'évaluation des activités et des compétences du responsable de formation dans l'entreprise.
                                         </li>
                                     </ul>
                                 </div>
@@ -207,33 +199,40 @@
                             <div class="uk-modal-dialog uk-modal-body">
                                 <div>
                                     <h4> 
-                                        Module 3. Accompagner les projets de changement dans l’entreprise
+                                        Module 3: Traduire la stratégie d’entreprise en plan de développement de compétences.
                                     </h4>
                                     <ul class="uk-list uk-list-square" style="margin-left: 20px">
                                         <li>
-                                            Les méthodes et outils de réalisation des diagnostics des profils socioprofessionnels afin
-                                            d'effectuer une cartographie de populations directement ou indirectement impactées par le
-                                            changement issu d’une action de consulting.
+                                            La clarification des missions du responsable formation et fixer les bases fonctionnelles de
+                                            l’activité formation en prise directe avec la vision stratégique de l’entreprise.
                                         </li>
                                         <li>
-                                            Les caractéristiques spécifiques de la stratégie d’entreprise, de la conduite du changement et
-                                            de la transition que chaque acteur impliqué doit intégrer pour favoriser la cohésion de l’action
-                                            commune.
+                                            La formation en tant que levier stratégique dans la compétitivité de l'entreprise et les nouveaux
+                                            enjeux de la formation professionnelle sur l'employabilité des salariés et la sécurisation des
+                                            parcours professionnels.
                                         </li>
                                         <li>
-                                            Les outils d’analyse du changement et évaluation des impacts qu’il produit sur l’organisation,
-                                            les compétences, le fonctionnement, les relations professionnelles, pendant et après la
-                                            transition.
+                                            Les outils d’analyse et d’identification des principaux axes de la stratégie de l’entreprise et
+                                            méthodes pour déterminer les orientations du plan de la formation ainsi que ses contributions
+                                            aux performances de l’entreprise.
                                         </li>
                                         <li>
-                                            Les modalités de cadrage du projet et déploiement des plans d'action visant à maitriser les
-                                            impacts découlant du projet de changement afin d’éviter les réactions de résistance et de
-                                            démotivation.
+                                            Les méthodes d’identification des compétences à développer et les scénarios métiers en
+                                            fonction de la stratégie générale de l'entreprise et les décliner en plan de formation annuel.
                                         </li>
                                         <li>
-                                            L’entraînement à l’appropriation d’un processus méthodologique de la conduite du
-                                            changement : la transition et ses résonances ainsi que les principes de réussite de toute stratégie
-                                            du changement.
+                                            Le processus de la mise en conformité des compétences stratégiques décalées, l’anticipation
+                                            des nouvelles logiques de formation nécessaires au développement de l’entreprise.
+                                        </li>
+                                        <li>
+                                            La mise au point d’une organisation qui va faciliter l’implication de la hiérarchie dans le
+                                            processus de formation avant, pendant et après la réalisation des actions pour mieux optimiser
+                                            leur impact sur le terrain.
+                                        </li>
+                                        <li>
+                                            Les méthodes et les outils opérationnels du responsable formation pour la mise en place d’une
+                                            gestion prévisionnelle des compétences à produire par la formation à partir des orientations
+                                            stratégiques de l’entreprise.
                                         </li>
                                     </ul>
                                 </div>
@@ -252,36 +251,39 @@
                             <div class="uk-modal-dialog uk-modal-body">
                                 <div>
                                     <h4> 
-                                        Module 4. Evaluer les besoins en formation
+                                        Module 4: Evaluer les besoins en formation dans l’entreprise
                                     </h4>
                                     <ul class="uk-list uk-list-square" style="margin-left: 20px">
                                         <li>
-                                            La préparation d’un diagnostic des besoins en formation et les principes de construction d’un
-                                            support méthodologique fondé sur les critères de performance recherchée,
+                                            La formalisation d’un diagnostic des besoins en formation et les principes de construction
+                                            d’un support méthodologique fondé sur les critères de performance recherchée.
                                         </li>
                                         <li>
-                                            Les techniques d’évaluation des besoins en formation : les principaux outils d’entretien, les
-                                            grilles d’analyse par métier, fonction ou activité,
+                                            Les techniques d’évaluation des besoins en formation : les principaux outils d’entretiens avec
+                                            différents acteurs d'entreprise, les grilles d’analyse par métier, fonction ou activité.
                                         </li>
                                         <li>
-                                            L’analyse des résultats du diagnostic et la définition des objectifs de formation à la création
-                                            d'un véritable avantage concurrentiel pour l'entreprise,
+                                            L’appropriation des outils d’analyse des besoins au niveau des services de l’entreprise, en
+                                            termes de connaissances et de compétences à développer pour mieux optimiser les
+                                            performances individuelles et des équipes.
                                         </li>
                                         <li>
-                                            L’entraînement à l’identification et à la définition des besoins en formation à partir des sources
-                                            <strong>RH</strong> concernant l’évolution des métiers, la gestion des carrières et des compétences <strong>GPEC</strong>,
+                                            Les outils d'analyse d'évaluation des besoins et la formulation des cahiers de charges intégrant
+                                            la création d'un véritable avantage concurrentiel pour l'entreprise.
                                         </li>
                                         <li>
-                                            Les outils du formateur pour la mise en place d’un dispositif d'identification prévisionnelle
-                                            des besoins en compétences à partir de la stratégie du développement de l’entreprise,
+                                            Le mode d'exploitation des ressources et réseaux internes de l’entreprise afin d’optimiser la
+                                            définition des besoins en formation par rapport à l’évolution des métiers et la gestion des
+                                            carrières GPEC.
                                         </li>
                                         <li>
-                                            La formalisation d’un processus méthodologique consistant à limiter les risques financiers,
-                                            juridiques et sociaux afférant à un projet de formation,
+                                            Les outils du responsable de formation pour la mise en place d’une gestion prévisionnelle des
+                                            besoins en compétences à partir de la stratégie de l’entreprise.
                                         </li>
                                         <li>
-                                            La dimension opérationnelle de stratégique de la formation pour l'entreprise et comment
-                                            définir l'impact recherché d’une action de formation sur la performance des stagiaires formés.
+                                            L’entrainement pratique à la définition des besoins en formation et à l’anticipation des impacts
+                                            à produire sur la performance effective des cibles de populations à former à l’issue de la
+                                            formation.
                                         </li>
                                     </ul>
                                 </div>
@@ -300,36 +302,37 @@
                             <div class="uk-modal-dialog uk-modal-body">
                                 <div>
                                     <h4> 
-                                        Module 5. Concevoir et développer l’ingénierie de formation
+                                        Module 5: Développer des dispositifs de l’ingénierie de formation
                                     </h4>
                                     <ul class="uk-list uk-list-square" style="margin-left: 20px">
                                         <li>
-                                            L’appropriation des méthodes d’élaboration et de traduction des cahiers des charges en
-                                            projets de formation en cohérence avec les objectifs de compétences à développer,
+                                            Le mode de différenciation des objectifs stratégiques, opérationnels, pédagogiques afin de
+                                            pouvoir concevoir et développer les dispositifs de l'ingénierie de formation efficient ;
                                         </li>
                                         <li>
-                                            Le positionnement d'un projet de formation selon l’objectifs à atteindre : l'objectif de
-                                            compétence, l’objectif de connaissances, l’objectif pédagogique, l'objectif de performance,
+                                            Le processus de montage de projets de formation à partir d’objectifs stratégiques de
+                                            l’entreprise, du système de gestion des carrières, des évaluation annuelles, des référentiels
+                                            métiers ;
                                         </li>
                                         <li>
-                                            L’élaboration d’un programme de formation opérationnel, en adéquation avec le public cible
-                                            à former, qui débouche sur la conception et le déploiement d’un processus de formation,
+                                            Les méthodes de traduction des plans de formation ou d'une politique de gestion des
+                                            ressources humaines en ingénierie de formation et des compétences ;
                                         </li>
                                         <li>
-                                            Les différents concepts et outils de pédagogies différentielles telles que : inductive,
-                                            démonstrative, interrogative, par objectif ou par projet et leurs applications opérationnelles.
+                                            L'appropriation des outils d'analyse méthodologique, pédagogique et organisationnelle de la
+                                            réalisation d’actions de formation test pour valider les contenus pédagogiques ;
                                         </li>
                                         <li>
-                                            Le cycle d’apprentissage des adultes et approches pédagogiques différentielles en cohérence
-                                            avec différents profils de stagiaires et la spécificité des objectifs pédagogiques à traiter,
+                                            La mise au point des tableaux synoptiques de l'ingénierie de formation dotés des indicateurs
+                                            pour piloter les actions de formation, exploiter les contenus et les faire vivre ;
                                         </li>
                                         <li>
                                             L’appropriation des méthodes de maniement des supports pédagogiques servant de guide
                                             d’animation du formateur et de manuel du participant pendant la session de formation,
                                         </li>
                                         <li>
-                                            Les modalités d’intégration des technologies numériques dans le processus de formation
-                                            avant, pendant et après la formation et leur impact sur les performances de stagiaires.
+                                            Cas pratique : élaborer un cahier de charges et organiser un processus de formation à partir
+                                            d'un dispositif complet d'ingénierie de formation sous forme d'étude de cas d'entreprise.
                                         </li>
                                     </ul>
                                 </div>
@@ -348,68 +351,37 @@
                             <div class="uk-modal-dialog uk-modal-body">
                                 <div>
                                     <h4> 
-                                        Module 6: Animer des sessions de formation
+                                        Module 6: Manager efficacement son service de formation
                                     </h4>
                                     <ul class="uk-list uk-list-square" style="margin-left: 20px">
                                         <li>
-                                            L’évaluation de ses potentialités d'animateur à partir d’un autodiagnostic de son style
-                                            d’animateur afin de développer ses points forts et d’améliorer ses points faibles,
+                                            La prise de connaissance des obligations des organismes de formation vis à vis de leurs clients
+                                            et des stagiaires pour mieux négocier les modalités contractuelles ;
                                         </li>
                                         <li>
-                                            L’élaboration d’un plan de réalisation d’une action de formation incluant la préparation
-                                            matérielle, logistique, pédagogique et psychologique,
+                                            Les différentes méthodes et outils d’évaluation d’offres de formation à l’aide de grilles
+                                            d’analyse pour mesurer leurs performances pédagogiques, économiques et opérationnelles ;
                                         </li>
                                         <li>
-                                            L’entraînement à la maîtrise des techniques de communication pédagogique au travers d'une
-                                            articulation méthodique de l’enchaînement de ses idées, de sa voix, ses gestes pour être en
-                                            phase avec son groupe,
+                                            Le processus d’achat, la mise au point des modalités de collaboration, l’entraînement à
+                                            l’élaboration d’un cahier des charges fournisseur et la définition des conditions ou points à
+                                            négocier ;
                                         </li>
                                         <li>
-                                            La maîtrise des techniques pour déjouer les tentatives de déstabilisation en repérant les
-                                            procédés, parfois tordus et manipulatoires afin de s’imposer par la maîtrise de recadrage,
+                                            L’identification de différentes sources de financements des projets de formation et mode
+                                            d’optimisation de la gestion des coûts par projet ou plan de formation annuel de l'entreprise ;
                                         </li>
                                         <li>
-                                            Le maniement d’un dispositif d’évaluation pour mesurer les effets sur l'atteinte des objectifs
-                                            de la formation, la pertinence des contenus, l'application des acquis, les compétences acquises.
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div>
-                        <h4 uk-tooltip="title:plus de détails ?; pos: top-left"> 
-                            <img src="{{asset('icones/flecheDroit.png')}}" alt="fleche">
-                            <span uk-toggle="target: #module7">
-                                <a class="uk-link-heading" href="#">Module 7</a>
-                            </span>
-                        </h4>
-                        <div id="module7" uk-modal>
-                            
-                            <div class="uk-modal-dialog uk-modal-body">
-                                <div>
-                                    <h4> 
-                                        Module 7: Formaliser et mettre en œuvre son projet professionnel
-                                    </h4>
-                                    <ul class="uk-list uk-list-square" style="margin-left: 20px">
-                                        <li>
-                                            La définition des missions de consultant, l'identification des offres de conseil à partir de son
-                                            expertise, l'élaboration des fiches de prestations et la formalisation de l'ingénierie de consulting
-                                            et la formalisation des projets professionnels.
+                                            Le plan d’un dispositif collaboratif de communication pour impliquer les managers
+                                            opérationnels à promouvoir la politique ou les projets de formation auprès de leurs équipes
+                                            ou services ;
                                         </li>
                                         <li>
-                                            La définition d’une stratégie marketing dans le cadre de son métier de consultant formateur
-                                            pour chaque offre de conseil, potentielle en cohérence avec son expertise initiale et au choix
-                                            du développement professionnel.
+                                            Le dispositif de la gestion générale de la formation, planifier et coordonner l'activité de l'équipe
+                                            pédagogique et assurer sa formation en conformité avec l’évolution du métier ;
                                         </li>
                                         <li>
-                                            La formalisation des plans d'action opérationnels pour déployer et réussir la réalisation de son
-                                            projet professionnel et qui feront l'objet de suivi et d'évaluation post-formation.
-                                        </li>
-                                        <li>
-                                            La validation du projet professionnel sur le plan de la maîtrise opératoire de sa mise en œuvre,
-                                            par le stagiaire et apporter les correctifs de progression préconisés par le formateur.
+                                            Cas pratique : formaliser et présenter une architecture du plan de formation de l’entreprise.
                                         </li>
                                     </ul>
                                 </div>
@@ -431,7 +403,7 @@
                             s’agit d’un guide méthodologique qui leurs servira de référentiel dans l’élaboration de leurs outils.
                             La formation se tiendra en téléconférence à partir de la plateforme du cabinet dédiée à cet effet.
                             Les stagiaires qui le souhaitent peuvent solliciter des séances en présentiel dans un des sites du
-                            cabinet.
+                            cabinet. <br>
                             Chaque stagiaire est mis en situation pratique réelle, guidé par un coach.
                         </p>
                     </div>
@@ -474,24 +446,40 @@
                 <h3 style="color: #0DA4B5">Processus pédagogique et évaluatif</h3>
                 <hr>
                 <div class="uk-grid-match uk-child-width-1-1@m" uk-grid>
-                    <div>
-                        <p>
-                            Pour faciliter l’assimilation, le contenu sera assez démonstratif constitué à 80% de schéma,
-                            Template et figures, de cas pratiques. Le formateur utilisera beaucoup de supports numériques
-                            et visuels. <br>
-                        <p><strong> - Évaluation en cours et fin de formation</strong> <br>
-                            Un temps d’échange sera consacré aux échanges avec les stagiaires en fin de chaque module ; en
-                            fin de formation, une fiche d’évaluation globale permet d’apprécier pour le formateur intervenant
-                            les point acquis et ceux à améliorer pour les autres sessions
-                        </p>
-                        <p><strong> - Mise en situation d’analyse</strong> <br>
-                            Chaque stagiaire aura l’occasion de présenter dans un document de quelques pages, son projet,
-                            de l’analyser, l’organiser et de présenter son plan de développement ; ces études seront
-                            capitalisées par le groupe de formation. <br>
-                            En fin de formation, une évaluation à chaud est effectuée et une attestation de présence ainsi
-                            qu’une attestation de fin de formation sont remises au stagiaire. Cette formation ne donne pas
-                            lieu à une évaluation formalisée ni académique des acquis de la formation devant un jury.
-                        </p>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <p>
+                                Pour faciliter l’assimilation, le contenu sera assez démonstratif constitué à 80% de schéma,
+                                Template et figures. <br>
+                                Elle utilisera comme mode pédagogique : 
+                            </p>
+                            <ul class="uk-list uk-list-square" style="margin-left: 20px">
+                                <li>
+                                    La pédagogie à cerveau total en application du modèle Hermann (magistral, démonstratif,
+                                    participatif, découverte) ;
+                                </li>
+                                <li>La démarche Metaplan ;</li>
+                                <li>La documentation papier (et informatique) directement opérationnelle ;</li>
+                                <li>Les études de cas, l’expérience et les échanges avec les autres participants ;</li>
+                                <li>La maïeutique pour l’expression du projet personnel.</li>
+                            </ul>
+
+                        </div>
+                        <div class="col-md-6">
+                            <p><strong>Évaluation en cours et fin de formation</strong> <br>
+                                Un temps d’échange sera consacré aux échanges avec les stagiaires en fin de chaque module ; en
+                                fin de formation, une fiche d’évaluation globale permet d’apprécier pour le formateur intervenant
+                                les point acquis et ceux à améliorer pour les autres sessions
+                            </p>
+                            <p><strong> - Mise en situation d’analyse</strong> <br>
+                                Chaque stagiaire aura l’occasion de présenter dans un document de quelques pages, son projet,
+                                de l’analyser, l’organiser et de présenter son plan de développement ; ces études seront
+                                capitalisées par le groupe de formation. <br>
+                                En fin de formation, une évaluation à chaud est effectuée et une attestation de présence ainsi
+                                qu’une attestation de fin de formation sont remises au stagiaire. Cette formation ne donne pas
+                                lieu à une évaluation formalisée ni académique des acquis de la formation devant un jury.
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -570,16 +558,13 @@
                     <h5 class="mb-md phone">DATES DE DEMMARRAGE DES SESSIONS</h5>
                     <div style="margin-left: 15px">
                         <p class="phone" style="font-size: 15px; color: whitesmoke">
-                            <img src="{{ asset('icones/forward_16px.png') }}" alt="">  05 Février 2021
+                            <img src="{{ asset('icones/forward_16px.png') }}" alt="">  8 Février 2021
                         </p>
                         <p class="phone" style="font-size: 15px; margin-top:-15px; color: whitesmoke">
-                            <img src="{{ asset('icones/forward_16px.png') }}" alt="">  5 Mai 2021
+                            <img src="{{ asset('icones/forward_16px.png') }}" alt="">  6 Avril 2021
                         </p>
                         <p class="phone" style="font-size: 15px; margin-top:-15px; color: whitesmoke">
-                            <img src="{{ asset('icones/forward_16px.png') }}" alt="">  4 Septembre 2021
-                        </p>
-                        <p class="phone" style="font-size: 15px; margin-top:-15px; color: whitesmoke">
-                            <img src="{{ asset('icones/forward_16px.png') }}" alt="">  1 er Décembre 2021
+                            <img src="{{ asset('icones/forward_16px.png') }}" alt="">  17 Août 2021
                         </p>
                     </div>
                 </div>
