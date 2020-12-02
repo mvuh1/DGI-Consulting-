@@ -69,6 +69,30 @@
                             <li><a href="#">Blog</a></li>
                             <li><a href="#">Article</a></li>
                             <li class="dropdown ">
+                                <a href="#" class="dropdown-toggle">Nos Services</a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a href="#">Certification internationale</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Technique Reglémentaire</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Conseil/Formation/Coaching</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Terciare</a>
+                                    </li>
+                                    <li></li>
+                                    <li>
+                                        <a href="#">RH</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">QHSE</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown ">
                                 <a href="#" class="dropdown-toggle">Nos formations</a>
                                 <ul class="dropdown-menu">
                                     <li class="dropdown-submenu">
@@ -112,30 +136,6 @@
                                     </li>
                                     <li>
                                         <a href="{{ route('gestion-etablissement') }}">gestion d’un établissement</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="dropdown ">
-                                <a href="#" class="dropdown-toggle">Nos Services</a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <a href="#">Certification internationale</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Technique Reglémentaire</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Conseil/Formation/Coaching</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Terciare</a>
-                                    </li>
-                                    <li></li>
-                                    <li>
-                                        <a href="#">RH</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">QHSE</a>
                                     </li>
                                 </ul>
                             </li>

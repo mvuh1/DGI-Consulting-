@@ -1,5 +1,5 @@
 <br>
-<footer class="short" id="footer" style="background-color: #4EBDC6">
+<footer class="short" id="footer" style="background-color: #0DA4B5">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4 col-xs-12 text-left">

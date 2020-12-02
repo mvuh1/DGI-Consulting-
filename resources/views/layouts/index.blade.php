@@ -6,7 +6,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<p class="baseline-1" style="font-size: 50px;">
+					<p class="baseline-1" style="font-size: 4em;">
 						Dgi Consulting - Africa</p>
 					<p class="baseline-3" style="color: ivory">
 						DUCHENE GROUP INTERNATIONAL LTD
